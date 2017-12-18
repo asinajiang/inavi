@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="inavi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="inavi.war">
+      <element id="artifact" artifact-name="inavi:war exploded" />
+    </root>
+  </artifact>
+</component>
